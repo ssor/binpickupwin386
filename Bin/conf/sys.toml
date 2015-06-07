@@ -1,0 +1,6 @@
+
+updaterport = "12306"
+locationCount = 8
+shelfCount = 4
+filterKeywords = ["干冰","鸭梨"]
+orderPrefix = "800"
