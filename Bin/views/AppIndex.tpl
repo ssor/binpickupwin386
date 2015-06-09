@@ -223,8 +223,9 @@
       </nav> 
 
     <script>
+    var updateTip 
     $(document).ready(function() {
-      var updateTip = $("#updateTip")
+      updateTip = $("#updateTip")
       updateTip.hide()
       setInterval(checkUpdate, 60*1000)
     });
