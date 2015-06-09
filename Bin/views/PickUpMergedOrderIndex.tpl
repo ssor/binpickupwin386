@@ -91,13 +91,13 @@
           </div>
  -->
       </div>
-      <nav class="navbar navbar-default navbar-fixed-bottom">
+<!--       <nav class="navbar navbar-default navbar-fixed-bottom">
         <div class="container">
               <div class="col-xs-12 col-sm-12 col-md-12 col-md-lg-12">
                 <div id="blurAlert" class="alert alert-danger" role="alert" style="text-align: center;"></div>
               </div>
         </div>
-      </nav> 
+      </nav>  -->
     <script>
       var orderID = "{{.OrderID}}";
       var orderDetail_temp = null
